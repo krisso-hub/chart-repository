@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-04-01T20:13:59.529041-04:00"
+    description: helm chart for interview process
+    digest: daa634bbc1bad4f43a564073b5ab2719564a61792f0a060ed32d5b885afc88f4
+    maintainers:
+    - email: dev.local@gmail.com
+      name: dev
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-01T20:13:59.528008-04:00"
